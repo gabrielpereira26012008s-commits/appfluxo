@@ -1,0 +1,14 @@
+
+Apliativo de mapa de ideias. 
+
+*O problema*
+Basicamente, eu tenho um grande problema com procrastinação, e preciso criar um app que me ajude a ter mais habitos saudáveis, me ajude a refletir sobre meuss pensamnetos e ideias.
+*Central de Ideias*
+Ele tem que possuir notificações que lembrem das ideias
+Tem que ser um aplicativo visual, com textos claros mas com o objetivo principal de ser completamente gráfico e visual, que estimule a criatividade. 
+Deve ser um aplicativo que funcione em dispositivos limitados
+funcione offline
+  
+*O conceito*
+Esse documento é extremamente lúdico e não representa a totalidade do projeto nem mesmo a sua complexidade.
+Um aplicativo completamente opencode, offline com o objetivo de não conter cores vibrantes e grandes estímulos, mas sim,ser um aplicativo central de ideias (Como um mapa conceitual)
